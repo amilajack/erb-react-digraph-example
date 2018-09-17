@@ -212,7 +212,7 @@
     "devtron": "^1.4.0",
     "electron-debug": "^2.0.0",
     "history": "^4.7.2",
-    "radium": "^0.24.1",
+    "radium": "^0.25.0",
     "react": "^16.5.0",
     "@amilajack/react-digraph": "^4.1.0",
     "react-dom": "^16.5.0",
