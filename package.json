@@ -213,7 +213,7 @@
     "electron-debug": "^2.0.0",
     "history": "^4.7.2",
     "radium": "^0.24.1",
-    "react": "^16.5.0",
+    "react": "^16.5.2",
     "@amilajack/react-digraph": "^4.1.0",
     "react-dom": "^16.5.0",
     "react-hot-loader": "^4.3.4",
