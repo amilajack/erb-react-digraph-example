@@ -172,7 +172,7 @@
     "eslint-plugin-promise": "^4.0.0",
     "eslint-plugin-react": "^7.10.0",
     "express": "^4.16.3",
-    "fbjs-scripts": "^0.8.3",
+    "fbjs-scripts": "^1.0.1",
     "file-loader": "^2.0.0",
     "flow-bin": "^0.80.0",
     "flow-runtime": "^0.17.0",
